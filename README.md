@@ -2,16 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Since the program cannot use the strlen function, I made an error using it and deleted it. 
 
 ## Description
-TODO - How have you solved the problem?
+I created a separate function that executes the strlen function and the problem was solved.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+I didn't use many libraries, just the stdio.h library
 
 ## Usage
-TODO - How does it work?
+This is a program that counts how many times a letter is repeated
 ```
 ./my_project argument1 argument2
 ```
